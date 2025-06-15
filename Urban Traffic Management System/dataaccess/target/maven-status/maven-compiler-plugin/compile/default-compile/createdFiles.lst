@@ -1,0 +1,6 @@
+com/uchith/utms/entity/BaseEntity.class
+com/uchith/utms/service/remote/DataService.class
+com/uchith/utms/service/remote/Direction.class
+com/uchith/utms/util/HibernateUtil.class
+com/uchith/utms/entity/TrafficData.class
+com/uchith/utms/service/impl/TrafficDataService.class
