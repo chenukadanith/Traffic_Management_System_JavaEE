@@ -11,6 +11,7 @@ import javax.naming.NamingException;
 
 import java.util.*;
 
+
 @Singleton
 public class TrafficAnalysis implements Analyze {
     private LinkedList<HashMap<String, String>> list;
